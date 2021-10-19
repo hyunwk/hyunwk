@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 기술스택
+## Tech Stack
 
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;
 <img alt="CSS3" src ="https://img.shields.io/badge/css3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;

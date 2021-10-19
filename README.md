@@ -30,6 +30,7 @@
 </div>
 
 [![42 Seoul](https://img.shields.io/badge/-Seoul-000000.svg?&style=flat-square&logo=42&logoColor=whit)](https://42seoul.kr/)&nbsp;&nbsp;
+[![inhatc](https://img.shields.io/badge/-InhaTechCollege-000000.svg?&style=flat-square&logo=&logoColor=whit)](https://www.inhatc.ac.kr/)&nbsp;&nbsp;
 
 <div align="center">
 

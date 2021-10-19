@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hyunwoo%20Kim&fontSize=90)
 
-<center>
+<div align="center">
 
 ## 기술스택
 
@@ -15,29 +15,27 @@
 <img alt="GitHub" src ="https://img.shields.io/badge/-GitHub-gray.svg?&style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;&nbsp;
 <img alt="Notion" src ="https://img.shields.io/badge/-Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white"/>&nbsp;&nbsp;
 
-</center>
+</div>
 
 - <b>Web</b> : HTML, CSS, JavaScript ES6, React 17.0.2,
 - <b>Programming Language</b> : Python 3.7.3 C99
 - <b>IDE</b> : Visual Studio Code 1.61.1
   Vim 8.2
 - <b>Database</b> : MySQL 8.0.26
-<center>
+
+<div align="center">
 
 ## Current
 
-</center>
+</div>
 
 [![42 Seoul](https://img.shields.io/badge/-Seoul-000000.svg?&style=flat-square&logo=42&logoColor=whit)](https://42seoul.kr/)&nbsp;&nbsp;
 
-<center>
+<div align="center">
 
 ## Me
 
-</center>
-</p>
+</div>
 
 [![Tech Blog Badge](https://img.shields.io/badge/-Blog-181717.svg?&style=flat-square-the-badge&logo=GitHubPages&logoColor=white)](https://hyunwk.github.io/)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/-42.4.hyunwkim@gmail.com-EA4335.svg?&style=flat-square-the-badge&logo=Gmail&logoColor=white)](mailto:42.4.hyunwkim@gmail.com)
-
-</center>

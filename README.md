@@ -19,8 +19,7 @@
 
 - <b>Web</b> : HTML, CSS, JavaScript ES6, React 17.0.2,
 - <b>Programming Language</b> : Python 3.7.3 C99
-- <b>IDE</b> : Visual Studio Code 1.61.1
-  Vim 8.2
+- <b>Tool</b> : Visual Studio Code PyCharm Vim
 - <b>Database</b> : MySQL 8.0.26
 
 <div align="center">

@@ -17,24 +17,29 @@
 
 </div>
 
-- <b>Web</b> : HTML, CSS, JavaScript ES6, React 17.0.2,
-- <b>Programming Language</b> : Python 3.7.3 C99
-- <b>Tool</b> : Visual Studio Code PyCharm Vim
-- <b>Database</b> : MySQL 8.0.26
+<b>Web</b> : HTML, CSS, JavaScript ES6, React 17.0.2,
+
+<b>Programming Language</b> : Python3, C
+
+<b>IDE</b> : Visual Studio Code, PyCharm, Vim
+
+<b>Database</b> : MySQL 8.0.26
 
 <div align="center">
 
-## Current
+## Currently working at
 
 </div>
 
-[![42 Seoul](https://img.shields.io/badge/-Seoul-000000.svg?&style=flat-square&logo=42&logoColor=whit)](https://42seoul.kr/)&nbsp;&nbsp;
-[![inhatc](https://img.shields.io/badge/-InhaTechCollege-000000.svg?&style=flat-square&logo=&logoColor=whit)](https://www.inhatc.ac.kr/)&nbsp;&nbsp;
-[![NHN Edu](https://img.shields.io/badge/-NHN_Edu-000000.svg?&style=flat-square&logo=&logoColor=whit)](https://www.nhnedu.com/)&nbsp;&nbsp;
+<b>NHN Edu</b>
+
+<b>42 SEOUL </b>
+
+<b>Inha Technical College </b>
 
 <div align="center">
 
-## Me
+## About me
 
 </div>
 

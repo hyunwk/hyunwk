@@ -4,26 +4,22 @@
 
 ## Tech Stack
 
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;
-<img alt="CSS3" src ="https://img.shields.io/badge/css3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;
 <img alt="Javascript" src ="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?&style=flat-square-the-badge&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;
 <img alt="React" src ="https://img.shields.io/badge/-React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/>&nbsp;&nbsp;
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;
 <img alt="c" src ="https://img.shields.io/badge/-c-A8B9CC.svg?&style=flat-square&logo=c&logoColor=white"/>&nbsp;&nbsp;
 <img alt="MySQL" src ="https://img.shields.io/badge/-MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
 <br>
-<img alt="GitHub" src ="https://img.shields.io/badge/-GitHub-gray.svg?&style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;&nbsp;
-<img alt="Notion" src ="https://img.shields.io/badge/-Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white"/>&nbsp;&nbsp;
 
 </div>
 
-<b>Web</b> : HTML, CSS, JavaScript ES6, React 17.0.2,
+<b>Web</b> : HTML, CSS, JavaScript, React 17.0.2,
 
 <b>Programming Language</b> : Python3, C
 
 <b>IDE</b> : Visual Studio Code, PyCharm, Vim
 
-<b>Database</b> : MySQL 8.0.26
+<b>Database</b> : MySQL
 
 <div align="center">
 
@@ -31,7 +27,7 @@
 
 </div>
 
-<b>NHN Edu</b>
+<b>NHN Edu ~ 21.5 </b>
 
 <b>42 SEOUL </b>
 

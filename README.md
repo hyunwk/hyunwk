@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hyunwoo%20Kim&fontSize=90)
-
 <div align="center">
 
 ## Tech Stack
@@ -13,25 +11,22 @@
 
 </div>
 
-<b>Web</b> : HTML, CSS, JavaScript, React 17.0.2,
+<b>Web</b> : React 17.0.2, Vue 2.6.0
 
-<b>Programming Language</b> : Python3, C
-
-<b>IDE</b> : Visual Studio Code, PyCharm, Vim
+<b>Programming Language</b> : Python3, C, JavaScript ES6
 
 <b>Database</b> : MySQL
 
 <div align="center">
 
-## Currently working at
+## Career
 
 </div>
 
-<b>NHN Edu ~ 21.5 </b>
+<b>NHN Edu 연동개발팀 (2021.11 ~ )</b>
 
-<b>42 SEOUL </b>
+<b>42 SEOUL (2021.2 ~ )</b>
 
-<b>Inha Technical College </b>
 
 <div align="center">
 

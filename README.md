@@ -15,17 +15,15 @@
 
 <b>Programming Language</b> : Python3, C, JavaScript ES6
 
-<b>Database</b> : MySQL
-
 <div align="center">
 
 ## Career
 
 </div>
 
-<b>NHN Edu 연동개발팀 (2021.11 ~ )</b>
+<b>NHN Edu </b>
 
-<b>42 SEOUL (2021.2 ~ )</b>
+<b>42 SEOUL</b>
 
 
 <div align="center">

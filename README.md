@@ -24,13 +24,3 @@
 <b>NHN Edu </b>
 
 <b>42 SEOUL</b>
-
-
-<div align="center">
-
-## About me
-
-</div>
-
-[![Tech Blog Badge](https://img.shields.io/badge/-Blog-181717.svg?&style=flat-square-the-badge&logo=GitHubPages&logoColor=white)](https://hyunwk.github.io/)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/-42.4.hyunwkim@gmail.com-EA4335.svg?&style=flat-square-the-badge&logo=Gmail&logoColor=white)](mailto:42.4.hyunwkim@gmail.com)
